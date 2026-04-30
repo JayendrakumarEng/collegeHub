@@ -1,0 +1,9 @@
+│
+●  You need to log in to continue.
+
+To sign in, open this URL in your browser:
+
+  https://api.insforge.dev/api/oauth/v1/authorize?client_id=clf_NK8cMUs41gm8ZcfdtSguVw&redirect_uri=http%3A%2F%2F127.0.0.1%3A51500%2Fcallback&response_type=code&scope=user%3Aread+organizations%3Aread+projects%3Aread+projects%3Awrite&code_challenge=_SYmJQKkJwNUXNAR8UsrV3ZgptlBhuihFpaVN0T-Ffk&code_challenge_method=S256&state=hlS5wDJ5Lsl58VutmoFKEw
+
+Waiting for authentication...
+Error: server.closeAllConnections is not a function
